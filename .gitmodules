@@ -1,0 +1,6 @@
+[submodule "cvg_ardrone2_ibvs"]
+	path = cvg_ardrone2_ibvs
+	url = git://github.com/Vision4UAV/cvg_ardrone2_ibvs.git
+[submodule "tum_ardrone"]
+	path = tum_ardrone
+	url = git://github.com/tum-vision/tum_ardrone.git
