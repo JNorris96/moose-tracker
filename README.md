@@ -3,7 +3,7 @@
 This project attempted to get a Parrot ARdrone2 to automatically follow a user-defined target.  The drone's video feed is additionally made available on the user's (Android) smartphone.
 
 #For Best Results:
--Use uncommon, high-contrast images for tracking.  Sports logos are quite good for this, as are signs and recycling bins.  Avoid dull or common colors, the tracker may latch on to someone else, veer away, and proceed to get lost.
+- Use uncommon, high-contrast images for tracking.  Sports logos are quite good for this, as are signs and recycling bins.  Avoid dull or common colors, the tracker may latch on to someone else, veer away, and proceed to get lost.
 -Keep the driving laptop within 15m or so of the drone.  We don't know the specific range of the drone's wifi, so the distance is subject to change.
 -Use outdoors in low/no wind or indoors in an open space.  The drone is very likely to bounce off the walls if used in narrow rooms or hallways.
 
