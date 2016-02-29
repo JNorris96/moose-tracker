@@ -9,6 +9,7 @@ This project attempted to get a Parrot ARdrone2 to automatically follow a user-d
 
 #To Install:
 Tracking software:
+
 1. Install ROS.  This code was tested and working on Indigo, other distros may not work
 2. Install ardrone_autonomy with apt-get install ros-[distro]-ardrone-autonomy
 3. Install the IBVS software as per its instructions
